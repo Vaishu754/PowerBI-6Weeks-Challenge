@@ -1,0 +1,103 @@
+Import Data from Excel to Power BI
+Definition
+
+Importing data means loading data from an Excel file into Power BI for analysis and creating reports.
+
+Steps to Import Excel Data
+Step 1
+
+Open Power BI Desktop.
+
+Step 2
+
+Go to Home tab.
+
+Step 3
+
+Click Get Data.
+
+Step 4
+
+Choose Excel Workbook.
+
+Step 5
+
+Browse and select the Excel file.
+
+Step 6
+
+Click Open.
+
+Step 7
+
+The Navigator window opens.
+
+Select the required sheet(s) or table(s).
+Preview the data.
+Step 8
+
+Choose one option:
+
+Load → Import data directly.
+Transform Data → Clean or modify data before loading.
+Step 9
+
+After loading, the data appears in:
+
+Report View
+Data View
+Model View
+Load vs Transform Data
+Load
+Imports data directly.
+No changes are made.
+Faster option.
+Transform Data
+Opens Power Query Editor.
+Clean the data.
+Remove duplicates.
+Change data types.
+Filter rows.
+Rename columns.
+Advantages
+Easy to import Excel files.
+Supports multiple worksheets.
+Saves time.
+Data can be refreshed.
+Helps create interactive reports.
+Interview Questions
+1. What is importing data?
+
+Importing data is the process of loading data from Excel or another data source into Power BI.
+
+2. Which option is used to import Excel data?
+
+Home → Get Data → Excel Workbook
+
+3. What is the Navigator window?
+
+It displays all worksheets and tables available in the Excel file.
+
+4. Difference between Load and Transform Data?
+Load: Imports data directly.
+Transform Data: Cleans and modifies data before loading.
+5. Which editor is used for data cleaning?
+
+Power Query Editor
+
+Shortcut Flow (Easy to Remember)
+Open Power BI
+      ↓
+Home
+      ↓
+Get Data
+      ↓
+Excel Workbook
+      ↓
+Select File
+      ↓
+Navigator
+      ↓
+Load / Transform Data
+      ↓
+Data Imported
