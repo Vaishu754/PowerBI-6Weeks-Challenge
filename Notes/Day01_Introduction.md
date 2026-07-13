@@ -1,4 +1,4 @@
-# Day 1 - Introduction to Power BI
+ Introduction to Power BI
 
 ## Topics Covered
 - Introduction to Power BI
